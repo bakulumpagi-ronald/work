@@ -1,0 +1,74 @@
+body{
+    background-color: #111010;
+    color: #fff;
+}
+.mpagi{
+justify-content:space-between;
+display: flex;
+list-style-type: none;
+background-color: maroon;
+padding: 30px;
+margin-top: 10px;
+}
+.mpagi a:hover{
+    background-color: rgb(131, 91, 46);
+}
+li{
+   color: white;
+}
+form{
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rona input{ 
+    outline: black;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+}
+.put{
+    
+    display: flex;
+    margin-top: 7px;
+    width: 550px;
+    margin-left: 31%; 
+    justify-content: space-evenly;
+}
+button{
+    background-color: #ff4500;
+    color: #111010;
+}
+.put p{
+    padding-top: 5px;
+    margin-left: -140px;
+    margin-top: 1px;
+}
+.put a{
+    padding-top: 5px;
+    margin-left: -0px;
+    margin-top: 1px;
+    color: #ff4500;
+    
+}
+
+#s{
+    height: 20px;
+}
+
+.form button{
+    width: 50%;
+    height: 30px;
+}
+.but button{
+    background-color: #ff4500;
+    color: #fff;
+    width: 200px;
+    height: 35px;
+    border-radius: 20px;
+
+}
+.form{
+    justify-content: center;
+    text-align: center;
+
+}
